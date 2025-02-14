@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+</head>
+<body>
+
+<h1> Tecshop online</h1>
+<h3>O portfólio</h3> 
+
+<ol type='1'>
+       
+		<li>COMPUTADORES
+       
+        <table border= '1 px'>
+              <th> <p align="center">COMPUTADORES
+              </p>
+              <tr>
+                <th> Nome do produto </th>
+                <th> Preço </th>
+                <th> Característica </th>
+                </tr>
+                
+                <tr> 
+                <td> Dell G15 </td>
+                <td> R$ 5.498,00 </td>
+                <td> Cor cinza </td>
+                </tr>
+                
+                <tr>
+                <td> Gamer Lenovo </td>
+                <td> R$ 7.590,99 </td>
+                <td> Led no teclado </td>
+                </tr>
+                
+                <tr>
+                <td> Kacacompur </td>
+                <td> R$ 300,00 </td>
+                <td> brinquedo </td>
+                </tr>
+       
+            <ul type='square'> <br>
+              <li> Dell G15 </li> <br><br><br>
+              <img src="https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/g-series/g15-5530/media-gallery/gray/non-touch/coral/notebook-laptop-g15-5530-gray-gallery-1-v2.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=554&qlt=100,1&resMode=sharp2&size=554,402&chrss=full" alt="Imagem do computador Dell G15" height='200px' width='300px;'/>
+              
+            <a href="https://www.dell.com/pt-br/shop/cty/pdp/spd/g-series-15-5530-laptop/g5530w25001bts?tfcid=31768715">This is a link</a>
+            
+              <li> Gamer Lenovo</li> <br><br><br><br>
+              
+            <img src=  "https://p1-ofp.static.pub//medias/25699807982_LOQ15IRH8WhiteBacklit_202303241022541695662142598.png" alt="Imagem do computador Gamer Lenovo" height='300px' width='300px;'/>
+            <a href="https://www.lenovo.com/br/pt/p/laptops/loq-laptops/lenovo-loq-15irh8/83eu0001br?orgRef=https%253A%252F%252Fwww.google.com%252F&cid=br:seo:5dklh2&srsltid=AfmBOoqQmjqyHBAjql4ViVwUm-OUWMpxnm_CjPGf4ULBVVPNePw0nxjk3p8">This is a link</a>
+            
+              <li> Kaca compur</li><br><br><br><br>
+              
+              <img src= "https://http2.mlstatic.com/D_NQ_NP_21488-MLB20210994461_122014-O.webp" alt="Imagem do computador Kaca compur" height='200px' width='300px;'/>
+              <a href="https://produto.mercadolivre.com.br/MLB-690632182-laptop-polly-64-atividades-bilingue-candide-brinde-relogio-_JM">This is a link</a>
+              
+              
+                
+               
+ </ul>
+
+
+			<table border= '1 px'>
+              <th> PERIFÉRICOS
+              <tr>
+  
+               <th> Nome do produto </th>
+               <th> Preço </th>
+               <th> Característica </th>
+              </tr>
+                
+              <tr>
+               <td> Mouse </td>
+               <td> R$ 200,00 </td>
+               <td> led ao redor </td>
+              </tr>
+                
+              <tr>
+                <td> Teclado </td>
+                <td> R$ 320,00 </td>
+                <td> Cor branca </td>
+               </tr>
+                
+               <tr>
+                <td> kit Teclado e mouse preto </td>
+                <td> R$ 250,00 </td>
+                <td> kit (2 itens) </td>
+               </tr>
+                
+		<p> <p> <li>PERIFÉRICOS
+            <ul type='square'> <br>
+              <li> Mouse </li> <br><br><br>
+              <img src="https://m.media-amazon.com/images/I/511ErkBZ2aL._AC_SX679_.jpg" alt="Imagem do mouse" height='200px' width='300px;'/>
+              
+            <a href="https://www.amazon.com.br/ATTACK-SHARK-carregamento-Tri-Mode-2-4G-program%C3%A1veis/dp/B0D3KQVQXK/ref=asc_df_B0D3KQVQXK/?tag=googleshopp00-20&linkCode=df0&hvadid=709884703639&hvpos=&hvnetw=g&hvrand=9356408267931791063&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9101294&hvtargid=pla-2312939867233&mcid=8c1efe838d1c37c489582823abdfb2ed&gad_source=1&th=1">This is a link</a>
+            
+              <li> Teclado</li> <br><br><br><br>
+              
+            <img src= "https://m.media-amazon.com/images/I/41hzubuxeZL.__AC_SX300_SY300_QL70_ML2_.jpg" alt="Imagem do mouse"  height='200px' width='300px;'/>
+            <a href="https://www.amazon.com.br/Logitech-Teclado-G715-LIGHTSYNC-Compat%C3%ADvel/dp/B0BFJVSHKN/ref=asc_df_B0BFJVSHKN/?tag=googleshopp00-20&linkCode=df0&hvadid=709884378379&hvpos=&hvnetw=g&hvrand=6948810645066427145&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9101294&hvtargid=pla-1888734572346&psc=1&mcid=83787da35cc93a21b630eabf6e1981ea&gad_source=1">This is a link</a>
+            
+              <li> Teclado e mouse preto </li><br><br><br><br>
+              
+              <img src= "https://m.media-amazon.com/images/I/51IPtedWrsL._AC_SX679_.jpg" 
+              height='200px' width='300px;'/>
+              <a href="https://www.amazon.com.br/Teclado-Mouse-sem-fio-Dell/dp/B0BPTK4P38/ref=asc_df_B0BPTK4P38/?tag=googleshopp00-20&linkCode=df0&hvadid=709884378379&hvpos=&hvnetw=g&hvrand=6948810645066427145&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9101294&hvtargid=pla-1967508309561&mcid=0010ac5b752e34c9a6a188c3e372f548&gad_source=1&th=1">This is a link</a>
+              
+               
+</ul>
+               
+				            
+       
+        <table border= '1 px'>
+              <th> SMARTHONES
+             <tr>
+  
+               <th> Nome do produto </th>
+               <th> Preço </th>
+               <th> Característica </th>
+              </tr>
+                
+              <tr>
+                <td> Smartphone motorola </td>
+                <td> R$ 1489,99 </td>
+                <td> Cor rosa </td>
+               </tr>
+                
+               <tr>
+                <td> Iphone 15 </td>
+                <td> R$ 4549,00 </td>
+                <td> Duas câmeras </td>
+               </tr>
+                
+               <tr>
+                <td> Samsung S24 Ultra </td>
+                <td> R$ 3.900,00 </td>
+                <td> caneta touch </td>
+               </tr>
+               
+                
+		<p> <p> <li>  SMART  
+            <ul type='square'> <br>
+              <li> Smartphone motorola </li> <br><br><br>
+              <img src="https://imgs.casasbahia.com.br/55066351/1g.jpg?imwidth=500" alt="Imagem do teledone motorola" height='300px' width='300px;'/>
+              
+            <a href="https://www.casasbahia.com.br/smartphone-motorola-moto-g04s-4g-coral-128gb-tela-66-4gb-4gb-ram-boost-camera-de-50mp-com-ia-e-night-vision-processador-octa-core-55066351/p/55066351?utm_medium=cpc&utm_source=GP_PLA&IdSku=55066351&idLojista=10037&tipoLojista=1P&gclsrc=aw.ds&&utm_campaign=cb_b2c_gg_pmax_core_tele_motorola&gad_source=1&gclid=Cj0KCQiA-5a9BhCBARIsACwMkJ5jXMAkcOtRW0nE-A2d_2BJUYw0xiZpOlMnjWJEgE1D02zC-TRNWnIaAt-8EALw_wcB">This is a link</a>
+            
+              <li> Iphone 15</li> <br><br><br><br>
+              
+            <img src= "https://fastshopbr.vtexassets.com/arquivos/ids/498088/0_AEMTP03BRAPTO_PRD_1500_1.jpg?v=638617904896600000" alt="Imagem do iphone 15"  height='300px' width='300px;'/>
+            <a href="https://site.fastshop.com.br/iphone-15-apple--128gb--preto--tela-de-6-1---5g-e-camera-de-48-mp-aemtp03brapto_prd/p?utm_source=google&utm_medium=cpc&utm_term=pmax_1p&utm_campaign=21769457195&gad_source=1&gclid=Cj0KCQiA-5a9BhCBARIsACwMkJ6jRBLFw_wsJYt7uKT7HGmegKmAE2Yx5wybbcSGPexdSvs8Glyn_gYaAhqhEALw_wcB">This is a link</a>
+            
+              <li> Sansung S24 Ultra</li><br><br><br><br>
+              
+              <img src= "https://m.media-amazon.com/images/I/51rPU0jDc0L.__AC_SX300_SY300_QL70_ML2_.jpg" alt="Imagem do telefone sansung"
+              height='300px' width='300px;'/>
+              <a href="https://www.amazon.com.br/Smartphone-Samsung-Galaxy-Selfie-1-120Hz/dp/B0CQD9VK7X?th=1">This is a link</a>
+                             
+  </ul>
+          
+              
+               
+       
+        <table border= '1 px'>
+              <th> SOFTWARE
+             <tr>
+  
+               <th> Nome do produto </th>
+               <th> Preço </th>
+               <th> Característica </th>
+              </tr>
+                
+              <tr>
+                <td> Android </td>
+                <td> Gratuito </td>
+                <td> Atende diferentes tipos de conectividade (GSM, CDMA, Wi-Fi, Bluetooth) </td>
+                </tr>
+                
+               <tr>
+                <td> Windows 11 </td>
+                <td> R$ 1,0999 </td>
+                <td> interface gráfica multitarefa </td>
+                </tr>
+                
+               <tr>
+                <td> Linux </td>
+                <td> Gratuito </td>
+                <td> É um Software Livre (Open Source) </td>
+               </tr> 
+               
+               
+                
+		<p> <p> <li> SOFTWARE
+            <ul type='square'> <br>
+              <li> Android </li> <br><br><br>
+              <img src="https://150785104.v2.pressablecdn.com/wp-content/uploads/2018/04/Android-logo.jpg" alt="Imagem do android" height='200px' width='300px;'/>
+              
+         
+              <li> Windows</li> <br><br><br><br>
+              
+            <img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPzuV9hx9UTDAELmi6dtuAnB-v_YqacxUjQQ&s" alt="Imagem do Windows"  height='200px' width='300px;'/>
+          
+            
+              <li> Linux </li><br><br><br><br>
+              
+              <img src= "https://www.makerhero.com/wp-content/uploads/2023/02/image2-2.png" alt="Imagem do linux"
+              height='200px' width='300px;'/>
+              <>
+              
+        
+              
+</ul>
+              
+              
+              
+               
+               
+
+
+
+</body>
+</html>
+
